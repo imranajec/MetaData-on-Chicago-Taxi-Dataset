@@ -2,7 +2,8 @@
 Used ML Metadatastore to save metadata of an execution on Chicago Taxi Dataset
 
 
-https://qsyvrnhbqntw.labs.coursera.org/notebooks/img/mlmd_overview.png![image](https://github.com/imranajec/MetaData-on-Chicago-Taxi-Dataset/assets/136712125/26daec60-e456-45bc-91fe-55eb1babf149)
+![mlmd_overview](https://github.com/imranajec/MetaData-on-Chicago-Taxi-Dataset/assets/136712125/6f3d1bee-d7b3-40a8-b532-4561a86db63d)
+
 
 
 The outline of steps involve:
