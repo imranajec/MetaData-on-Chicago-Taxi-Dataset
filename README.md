@@ -2,7 +2,8 @@
 Used ML Metadatastore to save metadata of an execution on Chicago Taxi Dataset
 
 
-<img src='img/mlmd_overview.png' alt='image of mlmd overview'>
+https://qsyvrnhbqntw.labs.coursera.org/notebooks/img/mlmd_overview.png![image](https://github.com/imranajec/MetaData-on-Chicago-Taxi-Dataset/assets/136712125/26daec60-e456-45bc-91fe-55eb1babf149)
+
 
 The outline of steps involve:
 1.Defining the ML Metadata's storage database
